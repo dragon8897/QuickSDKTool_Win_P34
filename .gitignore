@@ -1,0 +1,4 @@
+log/
+workspace/
+
+*.pyc
