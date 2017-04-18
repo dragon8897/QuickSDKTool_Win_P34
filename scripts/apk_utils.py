@@ -27,6 +27,7 @@ import shutil
 from PIL import Image
 import image_utils
 import log_utils
+import glob
 
 androidNS = 'http://schemas.android.com/apk/res/android'
 
@@ -1212,23 +1213,20 @@ def appendChannelIconMark(game, channel, decompileDir):
     xxhdpiPath = file_utils.getFullPath(decompileDir + '/res/drawable-xxhdpi')
     xxxhdpiPath = file_utils.getFullPath(decompileDir + '/res/drawable-xxxhdpi')
 
-    if not os.path.exists(ldpiPath):
-        os.makedirs(ldpiPath)
+    def resetPath(p):
+        l = glob.glob(p + '*')
+        if len(l) > 0:
+            p = l[0]
+        else:
+            os.makedirs(p)
+        return p
 
-    if not os.path.exists(mdpiPath):
-        os.makedirs(mdpiPath)
-
-    if not os.path.exists(hdpiPath):
-        os.makedirs(hdpiPath)
-
-    if not os.path.exists(xhdpiPath):
-        os.makedirs(xhdpiPath)
-
-    if not os.path.exists(xxhdpiPath):
-        os.makedirs(xxhdpiPath)
-
-    if not os.path.exists(xxxhdpiPath):
-        os.makedirs(xxxhdpiPath)
+    ldpiPath = resetPath(ldpiPath)
+    mdpiPath = resetPath(mdpiPath)
+    hdpiPath = resetPath(hdpiPath)
+    xhdpiPath = resetPath(xhdpiPath)
+    xxhdpiPath = resetPath(xxhdpiPath)
+    xxxhdpiPath = resetPath(xxxhdpiPath)
 
     gameIconName = getAppIconName(decompileDir) + '.png'
 
