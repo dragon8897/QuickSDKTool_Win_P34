@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
+    <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
+    <string name="abc_action_mode_done">Τέλος</string>
+    <string name="abc_activity_chooser_view_see_all">Προβολή όλων</string>
+    <string name="abc_activitychooserview_choose_application">Επιλέξτε κάποια εφαρμογή</string>
+    <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_search_hint">Αναζήτηση…</string>
+    <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
+    <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
+    <string name="abc_searchview_description_search">Αναζήτηση</string>
+    <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
+    <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
+    <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
+    <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
+    <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="com_accountkit_account_verified">Ο λογαριασμός επαληθεύτηκε!</string>
+    <string name="com_accountkit_button_begin">Έναρξη</string>
+    <string name="com_accountkit_button_cancel">Άκυρο</string>
+    <string name="com_accountkit_button_confirm">Επιβεβαίωση</string>
+    <string name="com_accountkit_button_continue">Συνέχεια</string>
+    <string name="com_accountkit_button_edit">ΕΠΕΞΕΡΓΑΣΙΑ</string>
+    <string name="com_accountkit_button_log_in">Σύνδεση</string>
+    <string name="com_accountkit_button_next">Επόμενο</string>
+    <string name="com_accountkit_button_ok">OK</string>
+    <string name="com_accountkit_button_resend_code_in">Ξαναστείλτε τον κωδικό στο %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Ξαναστείλτε τον κωδικό</string>
+    <string name="com_accountkit_button_send">Αποστολή</string>
+    <string name="com_accountkit_button_send_code_in_fb">Αποστολή κωδικού στο Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Πατήστε Στείλτε τον κωδικό στο Facebook για να σταλεί μια ειδοποίηση στο λογαριασμό Facebook που είναι συνδεδεμένος με τον αριθμό τηλεφώνου τον οποίο καταχωρήσατε.</string>
+    <string name="com_accountkit_button_start">Έναρξη</string>
+    <string name="com_accountkit_button_start_over">Προσπαθήστε ξανά.</string>
+    <string name="com_accountkit_button_submit">Υποβολή</string>
+    <string name="com_accountkit_check_email">Ανοίξτε το email σας</string>
+    <string name="com_accountkit_code_sent_to">"Στείλαμε έναν κωδικό στο
+%1$s"</string>
+    <string name="com_accountkit_confirmation_code_agreement">Πατήστε %1$s για να δηλώσετε ότι συμφωνείτε με τους &lt;a href=%2$s>Όρους&lt;/a>, την &lt;a href=%3$s>Πολιτική δεδομένων&lt;/a> και τη &lt;a href=%4$s>χρήση των cookies&lt;/a> του Facebook.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">Πατήστε %1$s για να δηλώσετε ότι συμφωνείτε με τους &lt;a href=%2$s>Όρους&lt;/a>, την &lt;a href=%3$s>Πολιτική δεδομένων&lt;/a>, τη &lt;a href=%4$s>χρήση των cookies&lt;/a> και την &lt;a href=%5$s>Πολιτική απορρήτου&lt;/a> του Facebook του %6$s.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">Πατήστε %1$s για να δηλώσετε ότι συμφωνείτε με τους &lt;a href=%2$s>Όρους&lt;/a>, την &lt;a href=%3$s>Πολιτική δεδομένων&lt;/a>, τη &lt;a href=%4$s>χρήση των cookies&lt;/a>, την &lt;a href=%5$s>Πολιτική απορρήτου&lt;/a> και τους &lt;a href=%6$s>Όρους της υπηρεσίας&lt;/a> του Facebook του %7$s.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">Πατήστε %1$s για να δηλώσετε ότι συμφωνείτε με τους &lt;a href=%2$s>Όρους&lt;/a>, την &lt;a href=%3$s>Πολιτική δεδομένων&lt;/a> και τους όρους για τη &lt;a href=%4$s>χρήση των cookies&lt;/a> του Facebook, καθώς και την &lt;a href=%5$s>Πολιτική απορρήτου&lt;/a> και τους &lt;a href=%6$s>Όρους χρήσης υπηρεσίας&lt;/a> του %7$s. &lt;a href=%8$s>Μάθετε περισσότερα&lt;/a> για τον τρόπο με τον οποίο επαληθεύτηκε ο λογαριασμός σας.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">Πατήστε %1$s για να δηλώσετε ότι συμφωνείτε με τους &lt;a href=%2$s>Όρους&lt;/a>, την &lt;a href=%3$s>Πολιτική δεδομένων&lt;/a>, τους όρους για τη &lt;a href=%4$s>χρήση των cookies&lt;/a> του Facebook και την &lt;a href=%5$s>Πολιτική απορρήτου&lt;/a> του %6$s. &lt;a href=%7$s>Μάθετε περισσότερα&lt;/a> για τον τρόπο με τον οποίο επαληθεύτηκε ο λογαριασμός σας.</string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">Πατήστε %1$s για να δηλώσετε ότι συμφωνείτε με τους &lt;a href=%2$s>Όρους&lt;/a>, την &lt;a href=%3$s>Πολιτική δεδομένων&lt;/a> και τους όρους για τη &lt;a href=%4$s>χρήση των cookies&lt;/a> του Facebook. &lt;a href=%5$s>Μάθετε περισσότερα&lt;/a> για τον τρόπο με τον οποίο επαληθεύτηκε ο λογαριασμός σας.</string>
+    <string name="com_accountkit_confirmation_code_text">Δεν λάβατε τον κωδικό;</string>
+    <string name="com_accountkit_confirmation_code_title">Εισαγάγετε τον κωδικό σας</string>
+    <string name="com_accountkit_email_invalid">Αυτό το email δεν είναι σωστό. Προσπαθήστε ξανά.</string>
+    <string name="com_accountkit_email_loading_title">Αποστολή email…</string>
+    <string name="com_accountkit_email_login_retry_title">Επιβεβαιώστε το email σας</string>
+    <string name="com_accountkit_email_login_text">Πατήστε %1$s για να λάβετε μια επιβεβαίωση μέσω email από το Account Kit του Facebook, ώστε να χρησιμοποιήσετε το %2$s. Δεν χρειάζεστε λογαριασμό στο Facebook. &lt;a href=%3$s>Μάθετε πώς χρησιμοποιεί τα στοιχεία σας το Facebook&lt;/a>.</string>
+    <string name="com_accountkit_email_login_title">Γράψτε τη διεύθυνση email σας</string>
+    <string name="com_accountkit_email_not_received">Επανάληψη αποστολής email</string>
+    <string name="com_accountkit_email_verify_title">Ανοίξτε το email που σας στείλαμε και επιβεβαιώστε τη διεύθυνσή σας</string>
+    <string name="com_accountkit_error_title">Λυπούμαστε, παρουσιάστηκε κάποιο πρόβλημα.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Εισαγάγετε τον κωδικό σας από το Facebook</string>
+    <string name="com_accountkit_logging_in">Σύνδεση…</string>
+    <string name="com_accountkit_phone_loading_title">Γίνεται αποστολή του κωδικού σας…</string>
+    <string name="com_accountkit_phone_login_retry_title">Επιβεβαιώστε τον αριθμό τηλεφώνου σας</string>
+    <string name="com_accountkit_phone_login_text">Πατήστε %1$s για να επαληθεύσετε το λογαριασμό σας με το Account Kit που παρέχεται από το Facebook. Δεν χρειάζεστε λογαριασμό στο Facebook για να χρησιμοποιήσετε το Account Kit. Μπορεί να σας στείλουμε ένα SMS για την επαλήθευση του αριθμού σας. Ίσως ισχύσουν χρεώσεις μηνυμάτων και δεδομένων. &lt;a href=%2$s>Μάθετε πώς χρησιμοποιεί τα στοιχεία σας το Facebook&lt;/a>.</string>
+    <string name="com_accountkit_phone_login_title">Γράψτε τον αριθμό τηλεφώνου σας</string>
+    <string name="com_accountkit_resend_check">Ελέγξτε τον αριθμό πριν ξαναστείλετε τον κωδικό.</string>
+    <string name="com_accountkit_resend_email_text">Αποστολή νέου email</string>
+    <string name="com_accountkit_resend_title">Λυπούμαστε. Δοκιμάστε αυτές τις επιλογές για να συνεχίσετε.</string>
+    <string name="com_accountkit_return_title">Επιστροφή στο %1$s…</string>
+    <string name="com_accountkit_sent_title">Στάλθηκε!</string>
+    <string name="com_accountkit_success_title">Ολοκληρώθηκε!</string>
+    <string name="com_accountkit_toolbar_title">Συνδεθείτε στο %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">"Δεν μπορέσαμε να
+επαληθεύσουμε τον κωδικό σας.
+Προσπαθήστε ξανά:"</string>
+    <string name="com_accountkit_verify_title">Γίνεται επαλήθευση του κωδικού σας…</string>
+    <string name="com_facebook_device_auth_instructions">Επισκεφτείτε τον ιστότοπο &lt;b>facebook.com/device&lt;/b> από το smartphone ή τον υπολογιστή σας και πληκτρολογήστε αυτόν τον κωδικό:</string>
+    <string name="com_facebook_image_download_unknown_error">Προέκυψε μη αναμενόμενο σφάλμα κατά τη λήψη μιας εικόνας.</string>
+    <string name="com_facebook_internet_permission_error_message">Για τη σύνδεση στο WebView απαιτείται σύνδεση INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Σφάλμα AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">Σας αρέσει</string>
+    <string name="com_facebook_like_button_not_liked">Μου αρέσει!</string>
+    <string name="com_facebook_loading">Φόρτωση…</string>
+    <string name="com_facebook_loginview_cancel_action">Άκυρο</string>
+    <string name="com_facebook_loginview_log_in_button">Σύνδεση</string>
+    <string name="com_facebook_loginview_log_in_button_long">Σύνδεση μέσω Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Αποσύνδεση</string>
+    <string name="com_facebook_loginview_log_out_button">Αποσύνδεση</string>
+    <string name="com_facebook_loginview_logged_in_as">Έχει γίνει σύνδεση ως: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Έχει γίνει σύνδεση μέσω Facebook</string>
+    <string name="com_facebook_send_button_text">Αποστολή</string>
+    <string name="com_facebook_share_button_text">Κοινοποίηση</string>
+    <string name="com_facebook_tooltip_default">Νέο! Έχετε τον έλεγχο - επιλέξτε ποιες πληροφορίες θέλετε να κοινοποιούνται στις εφαρμογές.</string>
+    <string name="messenger_send_button_text">Αποστολή</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

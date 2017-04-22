@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="com_accountkit_account_verified">Account Verified!</string>
+    <string name="com_accountkit_button_begin">Begin</string>
+    <string name="com_accountkit_button_cancel">Cancel</string>
+    <string name="com_accountkit_button_confirm">Confirm</string>
+    <string name="com_accountkit_button_continue">Continue</string>
+    <string name="com_accountkit_button_edit">EDIT</string>
+    <string name="com_accountkit_button_log_in">Log In</string>
+    <string name="com_accountkit_button_next">Next</string>
+    <string name="com_accountkit_button_ok">OK</string>
+    <string name="com_accountkit_button_resend_code_in">Resend code in %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Resend Code</string>
+    <string name="com_accountkit_button_send">Send</string>
+    <string name="com_accountkit_button_send_code_in_fb">Send Code in Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Tap Send Code in Facebook to send a notification to the Facebook account linked to the phone number you entered.</string>
+    <string name="com_accountkit_button_start">Start</string>
+    <string name="com_accountkit_button_start_over">Try Again</string>
+    <string name="com_accountkit_button_submit">Submit</string>
+    <string name="com_accountkit_check_email">Open your Email</string>
+    <string name="com_accountkit_code_sent_to">"We sent the code to
+%1$s"</string>
+    <string name="com_accountkit_confirmation_code_agreement">"Tap %1$s to accept Facebook's &lt;a href=%2$s>Terms&lt;/a>, &lt;a href=%3$s>Data Policy&lt;/a> and &lt;a href=%4$s>cookie use&lt;/a>."</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">"Tap %1$s to accept Facebook's &lt;a href=%2$s>Terms&lt;/a>, &lt;a href=%3$s>Data Policy&lt;/a>, &lt;a href=%4$s>cookie use&lt;/a> and the &lt;a href=%5$s>Privacy Policy&lt;/a> of %6$s."</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">"Tap %1$s to accept Facebook's &lt;a href=%2$s>Terms&lt;/a>, &lt;a href=%3$s>Data Policy&lt;/a>, &lt;a href=%4$s>cookie use&lt;/a> and the &lt;a href=%5$s>Privacy Policy&lt;/a> and &lt;a href=%6$s>Terms of Service&lt;/a> of %7$s."</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">"Tap %1$s to accept Facebook's &lt;a href=%2$s>Terms&lt;/a>, &lt;a href=%3$s>Data Policy&lt;/a>, &lt;a href=%4$s>cookie use&lt;/a> and the &lt;a href=%5$s>Privacy Policy&lt;/a> and &lt;a href=%6$s>Terms of Service&lt;/a> of %7$s. &lt;a href=%8$s>Learn more&lt;/a> about how your account was verified."</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">"Tap %1$s to accept Facebook's &lt;a href=%2$s>Terms&lt;/a>, &lt;a href=%3$s>Data Policy&lt;/a>, &lt;a href=%4$s>cookie use&lt;/a> and the &lt;a href=%5$s>Privacy Policy&lt;/a> of %6$s. &lt;a href=%7$s>Learn more&lt;/a> about how your account was verified."</string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">"Tap %1$s to accept Facebook's &lt;a href=%2$s>Terms&lt;/a>, &lt;a href=%3$s>Data Policy&lt;/a> and &lt;a href=%4$s>cookie use&lt;/a>. &lt;a href=%5$s>Learn more&lt;/a> about how your account was verified."</string>
+    <string name="com_accountkit_confirmation_code_text">"Didn't get code?"</string>
+    <string name="com_accountkit_confirmation_code_title">Enter your code</string>
+    <string name="com_accountkit_email_invalid">This email is incorrect. Please try again.</string>
+    <string name="com_accountkit_email_loading_title">Sending email…</string>
+    <string name="com_accountkit_email_login_retry_title">Confirm your email</string>
+    <string name="com_accountkit_email_login_text">"Tap %1$s to get an email confirmation from Account Kit by Facebook to help you use %2$s. You don't need a Facebook account to use it. &lt;a href=%3$s>Learn how Facebook uses your info&lt;/a>."</string>
+    <string name="com_accountkit_email_login_title">Enter your email address</string>
+    <string name="com_accountkit_email_not_received">Resend Email</string>
+    <string name="com_accountkit_email_verify_title">Open the email and confirm your address</string>
+    <string name="com_accountkit_error_title">"We're sorry, something went wrong."</string>
+    <string name="com_accountkit_facebook_code_entry_title">Enter your code from Facebook</string>
+    <string name="com_accountkit_logging_in">Logging in…</string>
+    <string name="com_accountkit_phone_loading_title">Verifying your number…</string>
+    <string name="com_accountkit_phone_login_retry_title">Confirm your phone number</string>
+    <string name="com_accountkit_phone_login_text">Tap %1$s to verify your account with Account Kit powered by Facebook. You don’t need a Facebook account to use Account Kit. An SMS may be sent to verify your number. Message and data rates may apply. &lt;a href=%2$s>Learn how Facebook uses your info&lt;/a>.</string>
+    <string name="com_accountkit_phone_login_title">Enter your phone number</string>
+    <string name="com_accountkit_resend_check">Please check the number before resending code.</string>
+    <string name="com_accountkit_resend_email_text">Send New Email</string>
+    <string name="com_accountkit_resend_title">"We're sorry. Try these options to continue."</string>
+    <string name="com_accountkit_return_title">Taking you back to %1$s…</string>
+    <string name="com_accountkit_sent_title">Sent!</string>
+    <string name="com_accountkit_success_title">Done!</string>
+    <string name="com_accountkit_toolbar_title">Log Into %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">"We couldn't verify your code.
+Please try again:"</string>
+    <string name="com_accountkit_verify_title">Verifying your code…</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter your code.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">9d92ebdd3db421ff3ddb041fb8fe60c0</string>
+    <string name="app_name">Login Sample</string>
+    <string name="com_facebook_smart_device_instructions_0">Confirm your code on Facebook.</string>
+    <string name="com_facebook_smart_device_instructions_1">1.\u0009Go to the Menu</string>
+    <string name="com_facebook_smart_device_instructions_2">2.\u0009Select Device Requests</string>
+    <string name="com_facebook_smart_device_instructions_3">3.\u0009Confirm code.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="facebook_app_id">133094273807591</string>
+</resources>

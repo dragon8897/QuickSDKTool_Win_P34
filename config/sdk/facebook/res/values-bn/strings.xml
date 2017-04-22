@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_accountkit_account_verified">অ্যাকাউন্ট যাচাই করা হয়েছে!</string>
+    <string name="com_accountkit_button_begin">আরম্ভ করুন</string>
+    <string name="com_accountkit_button_cancel">বাতিল করুন</string>
+    <string name="com_accountkit_button_confirm">নিশ্চিত করুন</string>
+    <string name="com_accountkit_button_continue">অবিরত রাখুন</string>
+    <string name="com_accountkit_button_edit">সম্পাদনা করুন৷</string>
+    <string name="com_accountkit_button_log_in">লগ ইন করুন</string>
+    <string name="com_accountkit_button_next">পরবর্তী</string>
+    <string name="com_accountkit_button_ok">ঠিক আছে</string>
+    <string name="com_accountkit_button_resend_code_in">%1$s -এ পুনরায় কোড পাঠান</string>
+    <string name="com_accountkit_button_resend_sms">আবার কোড পাঠান</string>
+    <string name="com_accountkit_button_send">পাঠান</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebook এ কোড পাঠান</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">"আপনার প্রবেশ করানো ফোন নম্বরের সাথে লিঙ্ক করা Facebook অ্যাকাউন্টে একটি বিজ্ঞপ্তি পাঠাতে Facebook এ 'কোড পাঠান' এ আলতো চাপুন৷"</string>
+    <string name="com_accountkit_button_start">শুরু করুন</string>
+    <string name="com_accountkit_button_start_over">আবার চেষ্টা করুন</string>
+    <string name="com_accountkit_button_submit">জমা দিন</string>
+    <string name="com_accountkit_check_email">আপনার ইমেল খুলুন</string>
+    <string name="com_accountkit_code_sent_to">আমরা %1$s এ কোডটি পাঠিয়েছি</string>
+    <string name="com_accountkit_confirmation_code_agreement">Facebook এর &lt;a href=%2$s>শ্র্তাবলী&lt;/a>, &lt;a href=%3$s>ডেটা নীতি&lt;/a> এবং &lt;a href=%4$s>কুকির ব্যবহার&lt;/a> স্বীকার করার জন্য %1$s এ আলতো চাপ দিন৷</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">Facebook এর &lt;a href=%2$s>শ্র্তাবলী&lt;/a>, &lt;a href=%3$s>ডেটা নীতি&lt;/a>, &lt;a href=%4$s>কুকির ব্যবহার&lt;/a> এবং %6$s এর &lt;a href=%5$s>গোপনীয়তা নীতি&lt;/a> স্বীকার করার জন্য %1$s এ আলতো চাপ দিন৷</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">Facebook এর &lt;a href=%2$s>শ্র্তাবলী&lt;/a>, &lt;a href=%3$s>ডেটা নীতি&lt;/a>, &lt;a href=%4$s>কুকির ব্যবহার&lt;/a> এবং &lt;a href=%5$s>গোপনীয়তা নীতি&lt;/a> এবং %7$s এর &lt;a href=%6$s>পরিষেবার শ্র্তাবলী&lt;/a> স্বীকার করার জন্য %1$s এ আলতো চাপ দিন৷</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">Facebookর &lt;a href=%2$s>শর্তাবলী&lt;/a>, &lt;a href=%3$s>ডেটার নীতি&lt;/a>, &lt;a href=%4$s>কুকির ব্যবহার&lt;/a> এবং &lt;a href=%5$s>গোপনীয়তা নীতি&lt;/a> এবং %7$s এর &lt;a href=%6$s>পরিষেবার শর্তাবলী&lt;/a> প্রাপ্ত করতে %1$s এ টোকা দিন৷ &lt;a href=%8$s>আরও জানুন&lt;/a> আপনার অ্যাকাউন্ট কীভাবে যাচাই করা হয়েছে সে সম্বন্ধে৷</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">Facebookর &lt;a href=%2$s>শর্তাবলী&lt;/a>, &lt;a href=%3$s>ডেটার নীতি&lt;/a>, &lt;a href=%4$s>কুকির ব্যবহার&lt;/a> এবং %6$s এর &lt;a href=%5$s>গোপনীয়তা নীতি&lt;/a> প্রাপ্ত করতে %1$s এ টোকা দিন৷ &lt;a href=%7$s>আরও জানুন&lt;/a> আপনার অ্যাকাউন্ট কীভাবে যাচাই করা হয়েছে সে সম্বন্ধে৷</string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">Facebookর &lt;a href=%2$s>শর্তাবলী&lt;/a>, &lt;a href=%3$s>ডেটার নীতি&lt;/a> এবং &lt;a href=%4$s>কুকির ব্যবহার&lt;/a> প্রাপ্ত করতে %1$s এ টোকা দিন৷ &lt;a href=%5$s>আরও জানুন&lt;/a> আপনার অ্যাকাউন্ট কীভাবে যাচাই করা হয়েছে সে সম্বন্ধে৷</string>
+    <string name="com_accountkit_confirmation_code_text">কোড পান নি?</string>
+    <string name="com_accountkit_confirmation_code_title">আপনার কোড লিখুন</string>
+    <string name="com_accountkit_email_invalid">এই ইমেলটি অবৈধ৷ অনুগ্রহ করে আবার চেষ্টা করুন৷</string>
+    <string name="com_accountkit_email_loading_title">ইমেল পাঠানো হচ্ছে…</string>
+    <string name="com_accountkit_email_login_retry_title">আপনার ইমেল নিশ্চিত করুন</string>
+    <string name="com_accountkit_email_login_text">আপনাকে %2$s ব্যবহার করতে সাহায্য করার জন্য Facebook Account Kit থেকে একটি নিশ্চিতকরণ ইমেল পাঠাবে তা পেতে %1$s -এ আলতো চাপ দিন৷ এটি ব্যবহার করার জন্য আপনার কোনো Facebook অ্যাকাউন্টের প্রয়োজন নেই৷ &lt;a href=%3$s>Facebook আপনার তথ্য কিভাবে ব্যবহার করে তা জানুন&lt;/a>৷</string>
+    <string name="com_accountkit_email_login_title">আপনার ইমেল ঠিকানা লিখুন</string>
+    <string name="com_accountkit_email_not_received">ইমেল পুনরায় পাঠান</string>
+    <string name="com_accountkit_email_verify_title">আমরা যে ইমেলটি পাঠিয়েছি সেটি খুলুন এবং আপনার ঠিকানা নিশ্চিত করুন</string>
+    <string name="com_accountkit_error_title">আমরা দুঃখিত, কিছু ত্রুটি ঘটেছে৷</string>
+    <string name="com_accountkit_facebook_code_entry_title">Facebook থেকে আপনার কোড প্রবেশ করান</string>
+    <string name="com_accountkit_logging_in">লগ ইন করা হচ্ছে…</string>
+    <string name="com_accountkit_phone_loading_title">আপনার কোড পাঠানো হচ্ছে…</string>
+    <string name="com_accountkit_phone_login_retry_title">আপনার ফোন নম্বর নিশ্চিত করুন</string>
+    <string name="com_accountkit_phone_login_text">Facebook চালিত Account Kit দিয়ে আপনার অ্যাকাউন্ট যাচাই করতে %1$s -এ আলতো চাপ দিন৷ Account Kit ব্যবহার করার জন্য আপনার কোনও Facebook অ্যাকাউন্টের প্রয়োজন নেই৷ আপনার নম্বর যাচাই করতে একটি SMS পাঠানো হতে পারে৷ বার্তা ও ডেটা রেট প্রযোজ্য হবে। &lt;a href=%2$s>Facebook আপনার তথ্য কিভাবে ব্যবহার করে তা জানুন&lt;/a>৷</string>
+    <string name="com_accountkit_phone_login_title">আপনার ফোন নম্বর লিখুন</string>
+    <string name="com_accountkit_resend_check">অনুগ্রহ করে পুনরায় কোড পাঠানোর আগে নম্বরটি পরীক্ষা করুন৷</string>
+    <string name="com_accountkit_resend_email_text">নতুন ইমেল পাঠান</string>
+    <string name="com_accountkit_resend_title">আমরা দুঃখিত৷ চালিয়ে যেতে এই বিকল্পসমূহ ব্যবহার করার চেষ্টা করুন৷</string>
+    <string name="com_accountkit_return_title">আপনাকে আবার %1$s এ নিয়ে যাচ্ছে…</string>
+    <string name="com_accountkit_sent_title">প্রেরিত:</string>
+    <string name="com_accountkit_success_title">সম্পন্ন!</string>
+    <string name="com_accountkit_toolbar_title">%1$s এ লগ ইন করুন</string>
+    <string name="com_accountkit_verify_confirmation_code_title">আমরা আপনার কোড যাচাই করতে পারি নি। অনুগ্রহ করে পুনরায় চেষ্টা করুন।</string>
+    <string name="com_accountkit_verify_title">আপনার কোড যাচাই করা হচ্ছে…</string>
+    <string name="com_facebook_device_auth_instructions">আপনার কম্পিউটার বা স্মার্টফোন থেকে &lt;b>facebook.com/device&lt;/b> এ যান এবং এই কোডটিকে প্রবেশ করান:</string>
+    <string name="com_facebook_image_download_unknown_error">একটি চিত্র ডাউনলোড করার সময়ে অপ্রত্যাশিত ত্রুটি দেখা দিচ্ছে৷</string>
+    <string name="com_facebook_internet_permission_error_message">WebView লগ ইন করার জন্য INTERNET-এর অনুমতির প্রয়োজন আছে</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest ত্রুটি</string>
+    <string name="com_facebook_like_button_liked">পছন্দ করা হয়েছে</string>
+    <string name="com_facebook_like_button_not_liked">পছন্দ করুন</string>
+    <string name="com_facebook_loading">লোড হচ্ছে…</string>
+    <string name="com_facebook_loginview_cancel_action">বাতিল করুন</string>
+    <string name="com_facebook_loginview_log_in_button">লগ ইন করুন</string>
+    <string name="com_facebook_loginview_log_in_button_long">Facebook -এর সাথে লগ ইন করুন</string>
+    <string name="com_facebook_loginview_log_out_action">লগ আউট করুন</string>
+    <string name="com_facebook_loginview_log_out_button">লগ আউট করুন</string>
+    <string name="com_facebook_loginview_logged_in_as">এই হিসাবে লগ ইন করা হয়েছে: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Facebook ব্যবহার করে লগ ইন করা হয়েছে</string>
+    <string name="com_facebook_send_button_text">পাঠান</string>
+    <string name="com_facebook_share_button_text">ভাগ করুন</string>
+    <string name="com_facebook_tooltip_default">নতুন! আপনি নিয়ন্ত্রণে আছেন-অ্যাপসের সাথে আপনি কোন তথ্য ভাগ করতে চাইছেন তা চয়ন করুন৷</string>
+    <string name="messenger_send_button_text">প্রেরণ করুন</string>
+</resources>

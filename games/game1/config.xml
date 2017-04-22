@@ -36,8 +36,33 @@
 				<versionName>2.8.1</versionName>
 			</sdk-version>				
 
+		</channel>
+        
+		<channel>
+			<param name="id" value="99" />
+			<param name="name" value="facebook" />
+			<param name="sdk" value="facebook" />
+			<param name="desc" value="Facebook" />
+			<param name="suffix" value="com.starfield.bngame.dzpk" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+			<param name="extraR" value="com.facebook" />
+
+			<sdk-params>
+
+				<param desc="应用名" name="com.facebook.accountkit.ApplicationName" value="DZPK" />
+				<param desc="AppID" name="com.facebook.sdk.ApplicationId" value="fb133094273807591" />  
+				<param desc="Token" name="com.facebook.accountkit.ClientToken" value="9d92ebdd3db421ff3ddb041fb8fe60c0" />
+
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>4.18.0</versionName>
+			</sdk-version>				
+
 		</channel>						
 
-		</channels>
+	</channels>
 
 </xml>

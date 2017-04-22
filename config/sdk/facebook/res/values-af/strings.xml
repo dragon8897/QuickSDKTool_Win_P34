@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeer tuis</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigeer op</string>
+    <string name="abc_action_menu_overflow_description">Nog opsies</string>
+    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_activity_chooser_view_see_all">Sien alles</string>
+    <string name="abc_activitychooserview_choose_application">"Kies 'n program"</string>
+    <string name="abc_capital_off">AF</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_search_hint">Soek …</string>
+    <string name="abc_searchview_description_clear">Vee navraag uit</string>
+    <string name="abc_searchview_description_query">Soeknavraag</string>
+    <string name="abc_searchview_description_search">Soek</string>
+    <string name="abc_searchview_description_submit">Dien navraag in</string>
+    <string name="abc_searchview_description_voice">Stemsoektog</string>
+    <string name="abc_shareactionprovider_share_with">Deel met</string>
+    <string name="abc_shareactionprovider_share_with_application">Deel met %s</string>
+    <string name="abc_toolbar_collapse_description">Vou in</string>
+    <string name="com_accountkit_account_verified">Rekening geverifieer!</string>
+    <string name="com_accountkit_button_begin">Begin</string>
+    <string name="com_accountkit_button_cancel">Kanselleer</string>
+    <string name="com_accountkit_button_confirm">Bevestig</string>
+    <string name="com_accountkit_button_continue">Gaan voort</string>
+    <string name="com_accountkit_button_edit">REDIGEER</string>
+    <string name="com_accountkit_button_log_in">Meld aan</string>
+    <string name="com_accountkit_button_next">Volgende</string>
+    <string name="com_accountkit_button_ok">Goed</string>
+    <string name="com_accountkit_button_resend_code_in">Stuur weer kode oor %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Stuur weer kode</string>
+    <string name="com_accountkit_button_send">Stuur</string>
+    <string name="com_accountkit_button_send_code_in_fb">Stuur kode in Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">"Tik Stuur kode in Facebook om 'n kennisgewing na die Facebook-rekening te stuur wat met die foonnommer verbind is wat jy ingevoer het."</string>
+    <string name="com_accountkit_button_start">Begin</string>
+    <string name="com_accountkit_button_start_over">Probeer weer</string>
+    <string name="com_accountkit_button_submit">Dien in</string>
+    <string name="com_accountkit_check_email">Maak jou e-pos oop</string>
+    <string name="com_accountkit_code_sent_to">"Ons het die kode gestuur na
+%1$s"</string>
+    <string name="com_accountkit_confirmation_code_agreement">Tik %1$s om Facebook se &lt;a href=%2$s>Bepalings&lt;/a>, &lt;a href=%3$s>Databeleid&lt;/a> en &lt;a href=%4$s>koekiegebruik&lt;/a> te aanvaar.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">Tik %1$s om Facebook se &lt;a href=%2$s>Bepalings&lt;/a>, &lt;a href=%3$s>Databeleid&lt;/a>, &lt;a href=%4$s>koekiegebruik&lt;/a> en die &lt;a href=%5$s>Privaatheidsbeleid&lt;/a> van %6$s te aanvaar.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">Tik %1$s om Facebook se &lt;a href=%2$s>Bepalings&lt;/a>, &lt;a href=%3$s>Databeleid&lt;/a>, &lt;a href=%4$s>koekiegebruik&lt;/a> en die &lt;a href=%5$s>Privaatheidsbeleid&lt;/a> en &lt;a href=%6$s>Diensbepalings&lt;/a> van %7$s te aanvaar.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">Tik %1$s om Facebook se &lt;a href=%2$s>bepalings&lt;/a>, &lt;a href=%3$s>databeleid&lt;/a>, &lt;a href=%4$s>koekiegebruik&lt;/a> en die &lt;a href=%5$s>privaatheidsbeleid&lt;/a> en &lt;a href=%6$s>diensbepalings&lt;/a> van %7$s te aanvaar. &lt;a href=%8$s>Kom meer te wete&lt;/a> oor hoe jou rekening geverifieer is.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">Tik %1$s om Facebook se &lt;a href=%2$s>bepalings&lt;/a>, &lt;a href=%3$s>databeleid&lt;/a>, &lt;a href=%4$s>koekiegebruik&lt;/a> en die &lt;a href=%5$s>privaatheidsbeleid&lt;/a> van %6$s te aanvaar. &lt;a href=%7$s>Kom meer te wete&lt;/a> oor hoe jou rekening geverifieer is.</string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">Tik %1$s om Facebook se &lt;a href=%2$s>bepalings&lt;/a>, &lt;a href=%3$s>databeleid&lt;/a> en &lt;a href=%4$s>koekiegebruik&lt;/a> te aanvaar. &lt;a href=%5$s>Kom meer te wete&lt;/a> oor hoe jou rekening geverifieer is.</string>
+    <string name="com_accountkit_confirmation_code_text">Het nie kode gekry nie?</string>
+    <string name="com_accountkit_confirmation_code_title">Voer jou kode in</string>
+    <string name="com_accountkit_email_invalid">Hierdie e-pos is verkeerd. Probeer asseblief weer.</string>
+    <string name="com_accountkit_email_loading_title">Stuur tans e-pos…</string>
+    <string name="com_accountkit_email_login_retry_title">Bevestig jou e-pos</string>
+    <string name="com_accountkit_email_login_text">"Tik %1$s om 'n e-pos-bevestiging vanaf Account Kit deur Facebook te kry om jou te help om %2$s te gebruik. Jy hoef nie 'n Facebook-rekening te hê om dit te gebruik nie. &lt;a href=%3$s>Leer hoe Facebook jou inligting gebruik&lt;/a>."</string>
+    <string name="com_accountkit_email_login_title">Voer jou e-posadres in</string>
+    <string name="com_accountkit_email_not_received">Stuur weer e-pos</string>
+    <string name="com_accountkit_email_verify_title">Maak die e-pos oop wat ons gestuur het en bevestig jou adres</string>
+    <string name="com_accountkit_error_title">Ons is jammer, iets het verkeerd gegaan.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Voer jou kode van Facebook in</string>
+    <string name="com_accountkit_logging_in">Meld tans aan…</string>
+    <string name="com_accountkit_phone_loading_title">Stuur tans jou kode…</string>
+    <string name="com_accountkit_phone_login_retry_title">Bevestig jou foonnommer</string>
+    <string name="com_accountkit_phone_login_text">"Tik %1$s om jou rekening met Account Kit te verifieer wat deur Facebook aangedryf word. Jy het nie 'n Facebook-rekening nodig om Account Kit te gebruik nie. 'n SMS kan dalk gestuur word om jou nommer te verifieer. Boodskap- en datatariewe kan dalk geld. &lt;a href=%2$s>Leer hoe Facebook jou inligting gebruik&lt;/a>."</string>
+    <string name="com_accountkit_phone_login_title">Voer jou foonnommer in</string>
+    <string name="com_accountkit_resend_check">Kontroleer asseblief die nommer voordat die kode weer gestuur word.</string>
+    <string name="com_accountkit_resend_email_text">Stuur nuwe e-pos</string>
+    <string name="com_accountkit_resend_title">Ons is jammer. Probeer hierdie opsies om voort te gaan.</string>
+    <string name="com_accountkit_return_title">Neem jou tans terug na %1$s…</string>
+    <string name="com_accountkit_sent_title">Gestuur!</string>
+    <string name="com_accountkit_success_title">Klaar!</string>
+    <string name="com_accountkit_toolbar_title">Meld by %1$s aan</string>
+    <string name="com_accountkit_verify_confirmation_code_title">Ons kon nie jou kode verifieer nie. Probeer asseblief weer:</string>
+    <string name="com_accountkit_verify_title">Verifieer tans jou kode…</string>
+    <string name="com_facebook_device_auth_instructions">Besoek &lt;b>facebook.com/device&lt;/b> op jou slimfoon of rekenaar en voer hierdie kode in:</string>
+    <string name="com_facebook_image_download_unknown_error">"Onverwagse fout met aflaai van 'n prent."</string>
+    <string name="com_facebook_internet_permission_error_message">Webaansig-aanmelding benodig INTERNET-toestemming</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest-fout</string>
+    <string name="com_facebook_like_button_liked">Hou van</string>
+    <string name="com_facebook_like_button_not_liked">Hou van</string>
+    <string name="com_facebook_loading">Laai tans…</string>
+    <string name="com_facebook_loginview_cancel_action">Kanselleer</string>
+    <string name="com_facebook_loginview_log_in_button">Meld aan</string>
+    <string name="com_facebook_loginview_log_in_button_long">Meld met Facebook aan</string>
+    <string name="com_facebook_loginview_log_out_action">Meld af</string>
+    <string name="com_facebook_loginview_log_out_button">Meld af</string>
+    <string name="com_facebook_loginview_logged_in_as">Aangemeld as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Met Facebook aangemeld</string>
+    <string name="com_facebook_send_button_text">Stuur</string>
+    <string name="com_facebook_share_button_text">Deel</string>
+    <string name="com_facebook_tooltip_default">Nuut! Jy is in beheer - kies watter inligting jy met toepassings wil deel.</string>
+    <string name="messenger_send_button_text">Stuur</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

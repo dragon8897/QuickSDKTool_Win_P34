@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">मुख्यपृष्ठ पर नेविगेट करें</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">ऊपर नेविगेट करें</string>
+    <string name="abc_action_menu_overflow_description">अधिक विकल्प</string>
+    <string name="abc_action_mode_done">पूर्ण</string>
+    <string name="abc_activity_chooser_view_see_all">सभी देखें</string>
+    <string name="abc_activitychooserview_choose_application">कोई एप्‍लिकेशन चुनें</string>
+    <string name="abc_capital_off">बंद</string>
+    <string name="abc_capital_on">चालू</string>
+    <string name="abc_search_hint">खोजा जा रहा है…</string>
+    <string name="abc_searchview_description_clear">क्‍वेरी साफ़ करें</string>
+    <string name="abc_searchview_description_query">खोज क्वेरी</string>
+    <string name="abc_searchview_description_search">खोजें</string>
+    <string name="abc_searchview_description_submit">क्वेरी सबमिट करें</string>
+    <string name="abc_searchview_description_voice">ध्वनि खोज</string>
+    <string name="abc_shareactionprovider_share_with">इसके द्वारा साझा करें</string>
+    <string name="abc_shareactionprovider_share_with_application">%s के साथ साझा करें</string>
+    <string name="abc_toolbar_collapse_description">संक्षिप्त करें</string>
+    <string name="com_accountkit_account_verified">खाता सत्यापित!</string>
+    <string name="com_accountkit_button_begin">शुरू करें</string>
+    <string name="com_accountkit_button_cancel">रद्द करें</string>
+    <string name="com_accountkit_button_confirm">पुष्टि करें</string>
+    <string name="com_accountkit_button_continue">जारी रखें</string>
+    <string name="com_accountkit_button_edit">संपादित करें</string>
+    <string name="com_accountkit_button_log_in">लॉग इन करें</string>
+    <string name="com_accountkit_button_next">अगला</string>
+    <string name="com_accountkit_button_ok">ठीक</string>
+    <string name="com_accountkit_button_resend_code_in">%1$s में कोड फिर से भेजें</string>
+    <string name="com_accountkit_button_resend_sms">कोड फिर से भेजें</string>
+    <string name="com_accountkit_button_send">भेजें</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebook में कोड भेजें</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">अपने द्वारा डाले गए फ़ोन नंबर से लिंक किए गए Facebook खाते पर सूचना भेजने के लिए Facebook में कोड भेजें टैप करें.</string>
+    <string name="com_accountkit_button_start">शुरू करें</string>
+    <string name="com_accountkit_button_start_over">फिर से प्रयास करें</string>
+    <string name="com_accountkit_button_submit">सबमिट करें</string>
+    <string name="com_accountkit_check_email">अपना ईमेल खोलें</string>
+    <string name="com_accountkit_code_sent_to">हमने कोड %1$s पर भेजा है</string>
+    <string name="com_accountkit_confirmation_code_agreement">Facebook की &lt;a href=%2$s>शर्तों&lt;/a>, &lt;a href=%3$s>डेटा नीति&lt;/a> और &lt;a href=%4$s>कुकी उपयोग&lt;/a> को स्वीकार करने के लिए %1$s टैप करें.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">Facebook की &lt;a href=%2$s>शर्तों&lt;/a>, &lt;a href=%3$s>डेटा नीति&lt;/a>, &lt;a href=%4$s>कुकी उपयोग&lt;/a> और %6$s की &lt;a href=%5$s>गोपनीयता नीति&lt;/a> को स्वीकार करने के लिए %1$s टैप करें.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">Facebook की &lt;a href=%2$s>शर्तों&lt;/a>, &lt;a href=%3$s>डेटा नीति&lt;/a>, &lt;a href=%4$s>कुकी उपयोग&lt;/a> और %7$s की &lt;a href=%5$s>गोपनीयता नीति&lt;/a> और &lt;a href=%6$s>सेवा की शर्तों&lt;/a> को स्वीकार करने के लिए %1$s टैप करें.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">Facebook की &lt;a href=%2$s>शर्तों&lt;/a>, &lt;a href=%3$s>डेटा नीति&lt;/a>, &lt;a href=%4$s>कुकी उपयोग&lt;/a> और %7$s की &lt;a href=%5$s>गोपनीयता नीति&lt;/a> और &lt;a href=%6$s>सेवा की शर्तों&lt;/a> को स्वीकार करने के लिए %1$s पर टैप करें. इस बारे में &lt;a href=%8$s>और जानें&lt;/a> कि आपका खाता कैसे सत्यापित किया गया था.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">Facebook की &lt;a href=%2$s>शर्तों&lt;/a>, &lt;a href=%3$s>डेटा नीति&lt;/a>, &lt;a href=%4$s>कुकी उपयोग&lt;/a> और %6$s की &lt;a href=%5$s>गोपनीयता नीति&lt;/a> को स्वीकार करने के लिए %1$s पर टैप करें. इस बारे में &lt;a href=%7$s>और जानें&lt;/a> कि आपका खाता कैसे सत्यापित किया गया था.</string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">Facebook की &lt;a href=%2$s>शर्तों&lt;/a>, &lt;a href=%3$s>डेटा नीति&lt;/a> और &lt;a href=%4$s>कुकी उपयोग&lt;/a> को स्वीकार करने के लिए %1$s पर टैप करें. इस बारे में &lt;a href=%5$s>और जानें&lt;/a> कि आपका खाता कैसे सत्यापित किया गया था.</string>
+    <string name="com_accountkit_confirmation_code_text">कोड नहीं मिला?</string>
+    <string name="com_accountkit_confirmation_code_title">अपना कोड डालें</string>
+    <string name="com_accountkit_email_invalid">यह ईमेल गलत है. कृपया फिर से कोशिश करें.</string>
+    <string name="com_accountkit_email_loading_title">ईमेल भेजा जा रहा है…</string>
+    <string name="com_accountkit_email_login_retry_title">अपना ईमेल कन्फ़र्म करें</string>
+    <string name="com_accountkit_email_login_text">%2$s के उपयोग में मदद पाने के लिए %1$s टैप करके Facebook द्वारा Account Kit से ईमेल कन्फ़र्मेशन प्राप्त करें. इसका उपयोग करने के लिए आपका Facebook खाता होना आवश्यक नहीं है. &lt;a href=%3$s>जानें कि Facebook आपकी जानकारी का कैसे उपयोग करता है&lt;/a>.</string>
+    <string name="com_accountkit_email_login_title">अपना ईमेल पता डालें</string>
+    <string name="com_accountkit_email_not_received">ईमेल फिर से भेजें</string>
+    <string name="com_accountkit_email_verify_title">हमारे द्वारा भेजा गया ईमेल खोलें और अपना पता कन्फ़र्म करें</string>
+    <string name="com_accountkit_error_title">हमें खेद है, कुछ गड़बड़ी हुई.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Facebook से अपना कोड डालें</string>
+    <string name="com_accountkit_logging_in">लॉग इन हो रहा है…</string>
+    <string name="com_accountkit_phone_loading_title">आपका कोड भेजा जा रहा है…</string>
+    <string name="com_accountkit_phone_login_retry_title">अपना फ़ोन नंबर कन्फ़र्म करें</string>
+    <string name="com_accountkit_phone_login_text">Facebook द्वारा संचालित Account Kit से अपना खाता सत्यापित करने के लिए %1$s पर टैप करें. Account Kit का उपयोग करने के लिए आपको Facebook खाता नहीं चाहिए. आपका नंबर सत्यापित करने के लिए एक SMS भेजा जा सकता है. संदेश और डेटा दरें लागू हो सकती हैं. &lt;a href=%2$s>जानें कि Facebook आपकी जानकारी का कैसे उपयोग करता है&lt;/a>.</string>
+    <string name="com_accountkit_phone_login_title">अपना फ़ोन नंबर डालें</string>
+    <string name="com_accountkit_resend_check">कोड फिर से भेजने से पहले कृपया नंबर जाँचें.</string>
+    <string name="com_accountkit_resend_email_text">नया ईमेल भेजें</string>
+    <string name="com_accountkit_resend_title">हमें खेद है. जारी रखने के लिए ये विकल्प आज़माएँ.</string>
+    <string name="com_accountkit_return_title">आपको वापस %1$s पर ले जाया जा रहा है…</string>
+    <string name="com_accountkit_sent_title">भेजा दिया!</string>
+    <string name="com_accountkit_success_title">पूर्ण!</string>
+    <string name="com_accountkit_toolbar_title">%1$s में लॉग इन करें</string>
+    <string name="com_accountkit_verify_confirmation_code_title">"हम आपका कोड सत्यापित नहीं कर सके.
+कृपया फिर से कोशिश करें:"</string>
+    <string name="com_accountkit_verify_title">आपका कोड सत्यापित किया जा रहा है…</string>
+    <string name="com_facebook_device_auth_instructions">अपने स्मार्टफ़ोन या कंप्यूटर पर &lt;b>facebook.com/device&lt;/b> पर जाएँ और यह कोड डालें:</string>
+    <string name="com_facebook_image_download_unknown_error">एक चित्र डाउनलोड करते समय अनपेक्षित गलती हुई.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView लॉग इन के लिए INTERNET अनुमति की आवश्यकता है</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest गलती</string>
+    <string name="com_facebook_like_button_liked">पसंद किया</string>
+    <string name="com_facebook_like_button_not_liked">पसंद करें</string>
+    <string name="com_facebook_loading">लोड हो रहा है…</string>
+    <string name="com_facebook_loginview_cancel_action">रद्द करें</string>
+    <string name="com_facebook_loginview_log_in_button">लॉग इन करें</string>
+    <string name="com_facebook_loginview_log_in_button_long">Facebook से लॉग इन करें</string>
+    <string name="com_facebook_loginview_log_out_action">लॉग आउट</string>
+    <string name="com_facebook_loginview_log_out_button">लॉग आउट</string>
+    <string name="com_facebook_loginview_logged_in_as">इस रूप में लॉग इन किया: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Facebook का उपयोग करके लॉग इन किया हुआ है</string>
+    <string name="com_facebook_send_button_text">भेजें</string>
+    <string name="com_facebook_share_button_text">साझा करें</string>
+    <string name="com_facebook_tooltip_default">नया! आप नियंत्रण में हैं - चुनें कि आप एप्लिकेशन से कौन-सी जानकारी साझा करना चाहते हैं.</string>
+    <string name="messenger_send_button_text">भेजें</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

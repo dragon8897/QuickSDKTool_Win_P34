@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_accountkit_account_verified">ఖాతా ధృవీకరించబడింది!</string>
+    <string name="com_accountkit_button_begin">ప్రారంభించు</string>
+    <string name="com_accountkit_button_cancel">రద్దు చేయి</string>
+    <string name="com_accountkit_button_confirm">నిర్ధారించు</string>
+    <string name="com_accountkit_button_continue">కొనసాగించు</string>
+    <string name="com_accountkit_button_edit">సవరించండి</string>
+    <string name="com_accountkit_button_log_in">లాగిన్ చేయి</string>
+    <string name="com_accountkit_button_next">తదుపరి</string>
+    <string name="com_accountkit_button_ok">సరే</string>
+    <string name="com_accountkit_button_resend_code_in">%1$sలో కోడ్‌ను మళ్లీ పంపు</string>
+    <string name="com_accountkit_button_resend_sms">కోడ్‌ను మళ్లీ పంపు</string>
+    <string name="com_accountkit_button_send">పంపు</string>
+    <string name="com_accountkit_button_send_code_in_fb">కోడ్‌ను Facebookలో పంపండి</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">మీరు నమోదు చేసిన ఫోన్ నంబర్‌కు అనుబంధించిన Facebook ఖాతాకు నోటిఫికేషన్ పంపడానికి Facebookలో కోడ్‌ను పంపు నొక్కండి.</string>
+    <string name="com_accountkit_button_start">ప్రారంభించు</string>
+    <string name="com_accountkit_button_start_over">మళ్లీ ప్రయత్నించండి</string>
+    <string name="com_accountkit_button_submit">సమర్పించు</string>
+    <string name="com_accountkit_check_email">మీ ఇమెయిల్‌ను తెరవండి</string>
+    <string name="com_accountkit_code_sent_to">మేము %1$sకి కోడ్‌ను పంపాము</string>
+    <string name="com_accountkit_confirmation_code_agreement">Facebook &lt;a href=%2$s>నిబంధనలు&lt;/a>, &lt;a href=%3$s>డేటా విధానం&lt;/a> మరియు &lt;a href=%4$s>కుక్కీ వినియోగం&lt;/a> ఆమోదించడానికి %1$s నొక్కండి.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">Facebook &lt;a href=%2$s>నిబంధనలు&lt;/a>, &lt;a href=%3$s>డేటా విధానం&lt;/a>, &lt;a href=%4$s>కుక్కీ వినియోగం&lt;/a> మరియు %6$s &lt;a href=%5$s>గోప్యతా విధానం&lt;/a> ఆమోదించడానికి %1$s నొక్కండి.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">Facebook &lt;a href=%2$s>నిబంధనలు&lt;/a>, &lt;a href=%3$s>డేటా విధానం&lt;/a>, &lt;a href=%4$s>కుక్కీ వినియోగం&lt;/a> మరియు %7$s &lt;a href=%5$s>గోప్యతా విధానం&lt;/a> మరియు &lt;a href=%6$s>సేవా నిబంధనలు&lt;/a> ఆమోదించడానికి %1$s నొక్కండి.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">Facebook &lt;a href=%2$s>నిబంధనలు&lt;/a>, &lt;a href=%3$s>డేటా విధానం&lt;/a>, &lt;a href=%4$s>కుక్కీ వినియోగం&lt;/a> మరియు %7$s యొక్క &lt;a href=%5$s>గోప్యతా విధానం&lt;/a> మరియు &lt;a href=%6$s>సేవా నిబంధనలను&lt;/a> ఆమోదించడానికి %1$sని నొక్కండి. మీ ఖాతా ఎలా ధృవీకరించబడిందనే దాని గురించి &lt;a href=%8$s>మరింత తెలుసుకోండి&lt;/a>.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">Facebook &lt;a href=%2$s>నిబంధనలు&lt;/a>, &lt;a href=%3$s>డేటా విధానం&lt;/a>, &lt;a href=%4$s>కుక్కీ వినియోగం&lt;/a> మరియు %6$s యొక్క &lt;a href=%5$s>గోప్యతా విధానాన్ని&lt;/a> ఆమోదించడానికి %1$sని నొక్కండి. మీ ఖాతా ఎలా ధృవీకరించబడిందనే దాని గురించి &lt;a href=%7$s>మరింత తెలుసుకోండి&lt;/a>.</string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">Facebook &lt;a href=%2$s>నిబంధనలు&lt;/a>, &lt;a href=%3$s>డేటా విధానం&lt;/a> మరియు &lt;a href=%4$s>కుక్కీ వినియోగాన్ని&lt;/a> ఆమోదించడానికి %1$sని నొక్కండి. మీ ఖాతా ఎలా ధృవీకరించబడిందనే దాని గురించి &lt;a href=%5$s>మరింత తెలుసుకోండి&lt;/a>.</string>
+    <string name="com_accountkit_confirmation_code_text">కోడ్ రాలేదా?</string>
+    <string name="com_accountkit_confirmation_code_title">మీ కోడ్‌ను నమోదు చేయండి</string>
+    <string name="com_accountkit_email_invalid">ఈ ఇమెయిల్ తప్పు. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="com_accountkit_email_loading_title">ఇమెయిల్ పంపుతోంది…</string>
+    <string name="com_accountkit_email_login_retry_title">మీ ఇమెయిల్‌ను నిర్ధారించండి</string>
+    <string name="com_accountkit_email_login_text">%2$sని ఉపయోగించడంలో మీకు సహాయపడటం కోసం Facebook ద్వారా Account Kit నుండి ఇమెయిల్ నిర్ధారణను పొందడానికి %1$sని నొక్కండి. దీనిని ఉపయోగించడానికి మీకు Facebook ఖాతా ఉండాల్సిన అవసరం లేదు. &lt;a href=%3$s>Facebook మీ సమాచారాన్ని ఎలా ఉపయోగిస్తుందో తెలుసుకోండి&lt;/a>.</string>
+    <string name="com_accountkit_email_login_title">మీ ఇమెయిల్ చిరునామాను నమోదు చేయండి</string>
+    <string name="com_accountkit_email_not_received">ఇమెయిల్‌ను మళ్లీ పంపు</string>
+    <string name="com_accountkit_email_verify_title">మేము పంపిన ఇమెయిల్‌ను తెరిచి, మీ చిరునామాను నిర్ధారించండి</string>
+    <string name="com_accountkit_error_title">మమ్మల్ని క్షమించండి, ఏదో తప్పు జరిగింది.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Facebook నుండి మీ కోడ్‌ను నమోదు చేయండి</string>
+    <string name="com_accountkit_logging_in">లాగిన్ చేస్తోంది…</string>
+    <string name="com_accountkit_phone_loading_title">మీ కోడ్‌ను పంపుతోంది…</string>
+    <string name="com_accountkit_phone_login_retry_title">మీ ఫోన్ నంబర్‌ను నిర్ధారించండి</string>
+    <string name="com_accountkit_phone_login_text">Facebook ఆధారిత Account Kitతో మీ ఖాతాను ధృవీకరించడానికి %1$sని నొక్కండి. Account Kitను ఉపయోగించడానికి మీకు Facebook ఖాతా ఉండాల్సినవసరం లేదు. మీ నంబర్‌ను ధృవీకరించడానికి SMSను పంపవచ్చు. సందేశ మరియు డేటా ఛార్జీలు వర్తించవచ్చు. &lt;a href=%2$s>Facebook మీ సమాచారాన్ని ఎలా ఉపయోగిస్తుందో తెలుసుకోండి&lt;/a>.</string>
+    <string name="com_accountkit_phone_login_title">మీ ఫోన్ నంబర్‌ను నమోదు చేయండి</string>
+    <string name="com_accountkit_resend_check">దయచేసి కోడ్‌ను మళ్లీ పంపడానికి ముందు నంబర్‌ను సరి చూసుకోండి.</string>
+    <string name="com_accountkit_resend_email_text">కొత్త ఇమెయిల్ పంపు</string>
+    <string name="com_accountkit_resend_title">మమ్మల్ని క్షమించండి. కొనసాగించడానికి ఈ ఎంపికలను ప్రయత్నించండి.</string>
+    <string name="com_accountkit_return_title">మిమ్మల్ని తిరిగి %1$sకి మళ్లిస్తోంది…</string>
+    <string name="com_accountkit_sent_title">పంపబడింది!</string>
+    <string name="com_accountkit_success_title">పూర్తయింది!</string>
+    <string name="com_accountkit_toolbar_title">%1$sకి లాగిన్ చేయండి</string>
+    <string name="com_accountkit_verify_confirmation_code_title">మేము మీ కోడ్‌ను ధృవీకరించలేకపోయాము. దయచేసి మళ్లీ ప్రయత్నించండి:</string>
+    <string name="com_accountkit_verify_title">మీ కోడ్‌ను ధృవీకరిస్తోంది…</string>
+    <string name="com_facebook_device_auth_instructions">మీ స్మార్ట్‌ఫోన్ లేదా కంప్యూటర్‌లో &lt;b>facebook.com/device&lt;/b> సందర్శించి, ఈ కోడ్‌ను నమోదు చేయండి:</string>
+    <string name="com_facebook_image_download_unknown_error">చిత్రాన్ని డౌన్‌లోడ్ చేస్తున్నప్పుడు ఊహించని లోపం ఏర్పడింది.</string>
+    <string name="com_facebook_internet_permission_error_message">వెబ్ వీక్షణ లాగిన్‌కు ఇంటర్నెట్ అనుమతి అవసరం</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest లోపం</string>
+    <string name="com_facebook_like_button_liked">ఇష్టంగా గుర్తు పెట్టబడింది</string>
+    <string name="com_facebook_like_button_not_liked">ఇష్టంగా గుర్తు పెట్టు</string>
+    <string name="com_facebook_loading">లోడ్ చేస్తోంది…</string>
+    <string name="com_facebook_loginview_cancel_action">రద్దు చేయి</string>
+    <string name="com_facebook_loginview_log_in_button">లాగిన్ చేయి</string>
+    <string name="com_facebook_loginview_log_in_button_long">Facebookతో లాగిన్ చేయి</string>
+    <string name="com_facebook_loginview_log_out_action">లాగ్ అవుట్ చేయి</string>
+    <string name="com_facebook_loginview_log_out_button">లాగ్ అవుట్ చేయి</string>
+    <string name="com_facebook_loginview_logged_in_as">ఇలా లాగిన్ చేసారు: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Facebook ఉపయోగించి లాగిన్ చేసారు</string>
+    <string name="com_facebook_send_button_text">పంపు</string>
+    <string name="com_facebook_share_button_text">భాగస్వామ్యం చేయండి</string>
+    <string name="com_facebook_tooltip_default">సరికొత్తది! మీకు నియంత్రణ ఉంది - మీరు అప్లికేషన్‌లతో ఏ సమాచారాన్ని భాగస్వామ్యం చేయాలనుకుంటున్నారో ఎంచుకోండి.</string>
+    <string name="messenger_send_button_text">పంపు</string>
+</resources>

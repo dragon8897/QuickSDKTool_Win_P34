@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="com_accountkit_account_verified">Аккаунт подтвержден!</string>
+    <string name="com_accountkit_button_begin">Начать</string>
+    <string name="com_accountkit_button_cancel">Отмена</string>
+    <string name="com_accountkit_button_confirm">Подтвердить</string>
+    <string name="com_accountkit_button_continue">Продолжить</string>
+    <string name="com_accountkit_button_edit">РЕДАКТИРОВАТЬ</string>
+    <string name="com_accountkit_button_log_in">Вход</string>
+    <string name="com_accountkit_button_next">Далее</string>
+    <string name="com_accountkit_button_ok">OK</string>
+    <string name="com_accountkit_button_resend_code_in">Повторная отправка кода через %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Отправить код еще раз</string>
+    <string name="com_accountkit_button_send">Отправить</string>
+    <string name="com_accountkit_button_send_code_in_fb">Отправить код Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Коснитесь Отправить код на Facebook, чтобы отправить уведомление в аккаунт на Facebook, привязанный к номеру телефона, который вы указали.</string>
+    <string name="com_accountkit_button_start">Старт</string>
+    <string name="com_accountkit_button_start_over">Попробуйте еще раз</string>
+    <string name="com_accountkit_button_submit">Отправить</string>
+    <string name="com_accountkit_check_email">Откройте эл. письмо</string>
+    <string name="com_accountkit_code_sent_to">"Мы отправили код на номер
+%1$s"</string>
+    <string name="com_accountkit_confirmation_code_agreement">Коснитесь %1$s, чтобы принять &lt;a href=%2$s>Условия&lt;/a>, &lt;a href=%3$s>Политику использования данных&lt;/a> и &lt;a href=%4$s>файлов «cookie»&lt;/a> Facebook.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">Коснитесь %1$s, чтобы принять &lt;a href=%2$s>Условия&lt;/a>, &lt;a href=%3$s>Политику использования данных&lt;/a> и &lt;a href=%4$s>файлов «cookie»&lt;/a> Facebook, а также &lt;a href=%5$s>Политику конфиденциальности&lt;/a> %6$s.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">Коснитесь %1$s, чтобы принять &lt;a href=%2$s>Условия&lt;/a>, &lt;a href=%3$s>Политику использования данных&lt;/a> и &lt;a href=%4$s>файлов «cookie»&lt;/a> Facebook, а также &lt;a href=%5$s>Политику конфиденциальности&lt;/a> и &lt;a href=%6$s>Пользовательское соглашение&lt;/a> %7$s.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">Коснитесь %1$s, чтобы принять &lt;a href=%2$s>Условия&lt;/a>, &lt;a href=%3$s>Политику использования данных&lt;/a>, &lt;a href=%4$s>Политику использования файлов «cookie»&lt;/a> Facebook, &lt;a href=%5$s>Политику конфиденциальности&lt;/a> и &lt;a href=%6$s>Пользовательское соглашение&lt;/a> %7$s. Узнайте больше о том, &lt;a href=%8$s>как выполняется проверка вашего аккаунта&lt;/a>.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">Коснитесь %1$s, чтобы принять &lt;a href=%2$s>Условия&lt;/a>, &lt;a href=%3$s>Политику использования данных&lt;/a>, &lt;a href=%4$s>Политику использования файлов «cookie»&lt;/a> Facebook и &lt;a href=%5$s>Политику конфиденциальности&lt;/a> %6$s. Узнайте больше о том, &lt;a href=%7$s>как выполняется проверка вашего аккаунта&lt;/a>.</string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">Коснитесь %1$s, чтобы принять &lt;a href=%2$s>Условия&lt;/a>, &lt;a href=%3$s>Политику использования данных&lt;/a> и &lt;a href=%4$s>файлов «cookie»&lt;/a> Facebook. Узнайте больше о том, &lt;a href=%5$s>как выполняется проверка вашего аккаунта&lt;/a>.</string>
+    <string name="com_accountkit_confirmation_code_text">Не получили код?</string>
+    <string name="com_accountkit_confirmation_code_title">Введите код</string>
+    <string name="com_accountkit_email_invalid">Неверный эл. адрес. Попробуйте еще раз.</string>
+    <string name="com_accountkit_email_loading_title">Отправка…</string>
+    <string name="com_accountkit_email_login_retry_title">Подтвердите правильность своего эл. адреса</string>
+    <string name="com_accountkit_email_login_text">Коснитесь %1$s, чтобы получить эл. письмо с подтверждением со стороны Account Kit от Facebook для использования %2$s. Вам не обязательно иметь аккаунт на Facebook, чтобы использовать его. &lt;a href=%3$s>Узнайте, как Facebook использует вашу информацию&lt;/a>.</string>
+    <string name="com_accountkit_email_login_title">Введите свой эл. адрес</string>
+    <string name="com_accountkit_email_not_received">Повторная отправка эл. письма</string>
+    <string name="com_accountkit_email_verify_title">Откройте эл. письмо, которое мы вам отправили, и подтвердите свой эл. адрес</string>
+    <string name="com_accountkit_error_title">Извините, что-то пошло не так.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Введите код, полученный от Facebook</string>
+    <string name="com_accountkit_logging_in">Выполняется вход…</string>
+    <string name="com_accountkit_phone_loading_title">Выполняется отправка кода…</string>
+    <string name="com_accountkit_phone_login_retry_title">Подтвердите свой номер телефона</string>
+    <string name="com_accountkit_phone_login_text">Коснитесь %1$s, чтобы подтвердить свой аккаунт с помощью Account Kit от Facebook. Для использования Account Kit не нужен аккаунт Facebook. Чтобы подтвердить ваш номер, мы можем отправить вам SMS. Может взиматься плата за передачу сообщений и данных. Узнайте, &lt;a href=%2$s>как Facebook использует вашу информацию&lt;/a>.</string>
+    <string name="com_accountkit_phone_login_title">Введите свой номер телефона</string>
+    <string name="com_accountkit_resend_check">Проверьте номер перед повторной отправкой кода.</string>
+    <string name="com_accountkit_resend_email_text">Отправить письмо заново</string>
+    <string name="com_accountkit_resend_title">Приносим извинения. Попробуйте сделать следующее.</string>
+    <string name="com_accountkit_return_title">Возврат к %1$s…</string>
+    <string name="com_accountkit_sent_title">Отправлено!</string>
+    <string name="com_accountkit_success_title">Готово!</string>
+    <string name="com_accountkit_toolbar_title">Выполните вход в %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">"Нам не удалось проверить ваш код.
+Попробуйте еще раз:"</string>
+    <string name="com_accountkit_verify_title">Выполняется проверка вашего кода…</string>
+    <string name="com_facebook_device_auth_instructions">Откройте «&lt;b>facebook.com/device&lt;/b>» на своем смартфофне или компьютере и введите этот код:</string>
+    <string name="com_facebook_image_download_unknown_error">При загрузке изображения возникла неожиданная ошибка.</string>
+    <string name="com_facebook_internet_permission_error_message">Для входа в WebView необходимо разрешение INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Ошибка AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">Понравилось</string>
+    <string name="com_facebook_like_button_not_liked">Нравится</string>
+    <string name="com_facebook_loading">Загрузка…</string>
+    <string name="com_facebook_loginview_cancel_action">Отменить</string>
+    <string name="com_facebook_loginview_log_in_button">Вход</string>
+    <string name="com_facebook_loginview_log_in_button_long">Вход через Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Выход</string>
+    <string name="com_facebook_loginview_log_out_button">Выход</string>
+    <string name="com_facebook_loginview_logged_in_as">Вы вошли как: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Выполнен вход с помощью Facebook</string>
+    <string name="com_facebook_send_button_text">Отправить</string>
+    <string name="com_facebook_share_button_text">Поделиться</string>
+    <string name="com_facebook_tooltip_default">Новинка! У вас все под контролем — выбирайте, какой информацией вы хотите поделиться с приложениями.</string>
+    <string name="messenger_send_button_text">Отпр</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+</resources>
