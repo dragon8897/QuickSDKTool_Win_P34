@@ -131,6 +131,11 @@ def pack(game, channel, sourcepath, isPublic):
     if ret:
         return 1
 
+    #copyExtraR new R.java
+    ret = apk_utils.copyExtraR(decompileDir, channel, newPackageName)
+    if ret:
+        return 1
+
     targetApk = workDir + "/output.apk"
     ret = apk_utils.recompileApk(decompileDir, targetApk)
     if ret:

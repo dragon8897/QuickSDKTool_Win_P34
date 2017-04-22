@@ -1367,7 +1367,95 @@ def mergeJar(workDir, decompileDir):
     smaliPath = file_utils.getFullPath(decompileDir + "/smali")
     return dex2smali(targetPath + '/classes.dex', smaliPath)    
 
-
+def copyExtraR(decompileDir, channel, newPackageName):
+ 
+    """
+        copy the new generated R.java to sdk extra package
+ 
+        first:add a new param in sdk channel config <param name="extraR" value="com.facebook" />
+ 
+        for those sdk which used R.*.* directly in code.
+ 
+ 
+    """
+ 
+    if "extraR" not in channel:
+        log_utils.debug("the sdk %s has no extraR config. don't need to generate extra R.java", channel['sdk'])
+        return 0
+ 
+    log_utils.debug("sdk %s need to generate extra R.java. package names:%s", channel['sdk'], channel['extraR'])        
+ 
+    newPackageNames = channel['extraR'].split(",")
+ 
+    ret = 0
+ 
+    decompileDir = file_utils.getFullPath(decompileDir)
+    sdkPath = os.path.dirname(decompileDir) + "/sdk"
+    resPath = os.path.join(sdkPath, channel['sdk']+"/res")
+ 
+    tempPath = os.path.dirname(decompileDir)
+    tempPath = tempPath + "/temp"
+    genPath = os.path.join(tempPath, "gen")
+ 
+    rPath = newPackageName.replace('.', '/')
+    rPath = os.path.join(genPath, rPath)
+    rPath = os.path.join(rPath, "R.java")
+ 
+    if not os.path.exists(rPath):
+        log_utils.error("copy extra R failed. the R.java is not exists:%s", rPath)
+        return 1
+ 
+ 
+    for k in range(len(newPackageNames)):
+ 
+        packageName = newPackageNames[k]
+ 
+        tempPath = os.path.join(sdkPath, 'extraTemp'+str(k))
+        log_utils.debug("generate sdk R: the temp path is %s", tempPath)
+        if os.path.exists(tempPath):
+            file_utils.del_file_folder(tempPath)
+ 
+        if not os.path.exists(tempPath):
+            os.makedirs(tempPath)
+ 
+ 
+        targetResPath = os.path.join(tempPath, "res")
+        file_utils.copy_files(resPath, targetResPath)
+ 
+        genPath = os.path.join(tempPath, "gen")
+        if not os.path.exists(genPath):
+            os.makedirs(genPath)
+ 
+ 
+        trPath = packageName.replace('.', '/')
+        trPath = os.path.join(genPath, trPath)
+        if not os.path.exists(trPath):
+            os.makedirs(trPath)
+ 
+        targetRPath = os.path.join(trPath, "R.java")
+ 
+        file_utils.copy_file(rPath, targetRPath)
+ 
+        file_utils.modifyFileContent(targetRPath, newPackageName, packageName)
+ 
+        cmd = '"%sjavac" -source 1.7 -target 1.7 -encoding UTF-8 "%s"' % (file_utils.getJavaBinDir(), targetRPath)
+        ret = file_utils.execFormatCmd(cmd)
+        if ret:
+            return 1
+ 
+        dexToolPath = file_utils.getFullToolPath("/lib/dx.jar")
+ 
+        targetDexPath = os.path.join(tempPath, "classes.dex")
+        cmd = file_utils.getJavaCMD() + ' -jar -Xms512m -Xmx512m "%s" --dex --output="%s" "%s"' % ( dexToolPath, targetDexPath, genPath)
+ 
+        ret = file_utils.execFormatCmd(cmd)
+        if ret:
+            return 1
+ 
+        smaliPath = os.path.join(decompileDir, "smali")
+        ret = dex2smali(targetDexPath, smaliPath, "baksmali.jar")
+ 
+    return 0
 
 
 
