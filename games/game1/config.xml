@@ -51,8 +51,8 @@
 			<sdk-params>
 
 				<param desc="应用名" name="com.facebook.accountkit.ApplicationName" value="DZPK" />
-				<param desc="AppID" name="com.facebook.sdk.ApplicationId" value="fb133094273807591" />  
-				<param desc="Token" name="com.facebook.accountkit.ClientToken" value="9d92ebdd3db421ff3ddb041fb8fe60c0" />
+				<param desc="AppID" name="com.facebook.sdk.ApplicationId" value="fb1727527777577890" />  
+				<param desc="Token" name="com.facebook.accountkit.ClientToken" value="19b3dab01b810040c09608ca1d243666" />
 
 			</sdk-params>
 
