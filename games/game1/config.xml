@@ -46,7 +46,7 @@
 			<param name="suffix" value="com.freepoker.cstarpokeren" />
 			<param name="splash" value="0" />
 			<param name="splash_copy_to_unity" value="0" />
-            <param name="extraR" value="android.support.v7.appcompat,android.support.v7.cardview,com.bainagame.facebook,com.bainagame.texaspoker,com.facebook.accountkit,com.facebook,com.morefun.unisdk" />
+			<param name="extraR" value="android.support.v7.appcompat,android.support.v7.cardview,com.bainagame.facebook,com.bainagame.texaspoker,com.facebook.accountkit,com.facebook,com.morefun.unisdk" />
 
 			<sdk-params>
 
@@ -55,6 +55,10 @@
 				<param desc="Token" name="com.facebook.accountkit.ClientToken" value="19b3dab01b810040c09608ca1d243666" />
 
 			</sdk-params>
+			
+			<plugins>
+				<plugin name="bugly" desc="Bugly"/>
+			</plugins>
 
 			<sdk-version>
 				<versionCode>1</versionCode>   

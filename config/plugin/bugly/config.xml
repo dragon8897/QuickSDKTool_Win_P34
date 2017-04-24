@@ -2,8 +2,8 @@
 <config>
     
     <params>
-        <param name="Bugly_AppID" value="900004591" required="1" showName="AppID" desc="腾讯Bugly日志插件" bWriteInManifest="0" bWriteInClient="1" />
-        <param name="Bugly_AppKey" value="9BOHhQUKJwwSZ6RE" required="1" showName="AppKey" desc="腾讯Bugly日志插件" bWriteInManifest="0" bWriteInClient="1" /> 
+        <param name="Bugly_AppID" value="900042230" required="1" showName="AppID" desc="腾讯Bugly日志插件" bWriteInManifest="0" bWriteInClient="1" />
+        <param name="Bugly_AppKey" value="HL3wPuNyxQxvsh7T" required="1" showName="AppKey" desc="腾讯Bugly日志插件" bWriteInManifest="0" bWriteInClient="1" /> 
 
     </params>
     
