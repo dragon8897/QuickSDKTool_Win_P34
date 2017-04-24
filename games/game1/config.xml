@@ -43,7 +43,7 @@
 			<param name="name" value="facebook" />
 			<param name="sdk" value="facebook" />
 			<param name="desc" value="Facebook" />
-			<param name="suffix" value="com.starfield.bngame.dzpk" />
+			<param name="suffix" value="com.freepoker.cstarpokeren" />
 			<param name="splash" value="0" />
 			<param name="splash_copy_to_unity" value="0" />
             <param name="extraR" value="android.support.v7.appcompat,android.support.v7.cardview,com.bainagame.facebook,com.bainagame.texaspoker,com.facebook.accountkit,com.facebook,com.morefun.unisdk" />
