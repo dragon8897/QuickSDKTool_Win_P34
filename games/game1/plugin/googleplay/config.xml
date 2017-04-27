@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    
+    <params>
+        <param name="GOOGLEPLAY_PUBLICKEY" value="MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuj4eajCLaJue7+A/r3SxNnvx3lJf2NFMWvIqrSlFhJXbx7Yiy3S/jwZWg7Rin4ttOhqPALGHzAFnXA9qCICgZnRG7ShUtJ6mN+VR1jJMjLEPA1reR6voYdHSKaX5fHZ/60wHL0nOl7NPm7H29FHbGaFdyTh8mSFd5sb5LEHvAlms4pugkC0VAvwUfh15FQJsyUO/W1TTZqswQoTeIpnTN600MGimfyRnwK8j9k6Ekx1+C0fK+RyRv7aFf78IGkbidfC14sHxUwFUEaPBudId7nNAEwR6wmm2UmwVPiykTL5FYpR1qj1eFXvgo7Qy0W5S8/F55s8aoZXfIuSNzs1eGQIDAQAB" required="1" showName="Public Key" desc="Google Play 公钥" bWriteInManifest="0" bWriteInClient="1" />
+        <param name="GOOGLEPLAY_IS_DEBUG" value="true" required="1" showName="Debug" desc="调试模式" bWriteInManifest="0" bWriteInClient="1" />
+        
+    </params>
+    
+    <operations>
+        <operation step="1" type="copyRes" from="aidl" to="aidl" />
+    </operations>
+    
+    <plugins>
+        <plugin name="com.dolphingame.googleplay.GooglePlayPay" type="2" desc="用户支付接口"/>
+    </plugins>
+    
+    <version>
+        <versionCode>1</versionCode>
+        <versionName>1.0.0</versionName>
+    </version>    
+    
+</config>

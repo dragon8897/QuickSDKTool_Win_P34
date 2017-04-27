@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    
+    <params>
+        <param name="GOOGLEPLAY_PUBLICKEY" required="1" showName="Public Key" desc="Google Play 公钥" bWriteInManifest="0" bWriteInClient="1" />
+        <param name="GOOGLEPLAY_IS_DEBUG" required="1" showName="Debug" desc="调试模式" bWriteInManifest="0" bWriteInClient="1" />
+        
+    </params>
+    
+    <operations>
+        <operation step="1" type="copyRes" from="aidl" to="aidl" />
+    </operations>
+    
+    <plugins>
+        <plugin name="com.dolphingame.googleplay.GooglePlayPay" type="2" desc="用户支付接口"/>
+    </plugins>
+    
+    <version>
+        <versionCode>1</versionCode>
+        <versionName>1.0.0</versionName>
+    </version>    
+    
+</config>
